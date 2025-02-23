@@ -25,7 +25,6 @@ I’m also passionate about open-source—I’ve learned so much from the commun
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhhiep&show_icons=true&bg_color=0,f5b161,ec366e&title_color=fff&text_color=fff&icon_color=fff" alt="Hiep Dinh's GitHub stats" width="400" />
-<img src="./digital.gif" width="150" />
 </div>
 
 
