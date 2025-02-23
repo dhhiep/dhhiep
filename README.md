@@ -10,6 +10,11 @@
 I’m also passionate about open-source—I’ve learned so much from the community and love how people share knowledge and collaborate to build amazing things!"
 <br />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dhhiep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhhiep" height="30" width="40" /></a>
+</p>
+
 ### Languages and tools:
 <p align="left">
   <a href="https://skillicons.dev">
