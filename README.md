@@ -16,10 +16,6 @@ I’m also passionate about open-source—I’ve learned so much from the commun
     <img src="https://skillicons.dev/icons?i=js,ts,python,ruby,jquery,vue,nodejs,express,rails,postgres,redis,firebase,linux,git,github,aws,docker,ansible,nginx,heroku" />
   </a>
 </p>
-<br />
-<div align="center">
-  <img alt="GIF" src="./dance.gif" width="300"/>
-</div>
 
 ### 📈 My github stats
 
