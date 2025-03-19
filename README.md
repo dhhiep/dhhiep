@@ -21,9 +21,3 @@ I’m also passionate about open-source—I’ve learned so much from the commun
     <img src="https://skillicons.dev/icons?i=js,ts,python,ruby,jquery,vue,nodejs,express,rails,postgres,redis,firebase,linux,git,github,aws,docker,ansible,nginx,heroku" />
   </a>
 </p>
-
-### 📈 My github stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhhiep&hide=contribs,prs&show_icons=true&bg_color=0,f5b161,ec366e&title_color=fff&text_color=fff&icon_color=fff" alt="Hiep Dinh's GitHub stats" width="400" />
-</div>
