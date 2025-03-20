@@ -1,23 +1,32 @@
-# puts  "Hello World 👋"
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is **Đinh Hoàng Hiệp**
 
-<div align="center">
-  <img width="300" src="./hello.gif">
-</div>
-<br />
-"Hi, I’m Hiep, a self-taught full-stack web developer who loves turning ideas into reality with clean and elegant interfaces. I care deeply about user experience, architecture, and writing high-quality code.
+## I am a Software Engineer
 
+My life philosophy: "Try not to become a man of success, but rather try to become a man of value" - Albert Einstein.
 
-I’m also passionate about open-source—I’ve learned so much from the community and love how people share knowledge and collaborate to build amazing things!"
-<br />
+- 🌍 I'm based in Ho Chi Minh, Vietnam
+- ✉️ You can contact me at [hoanghiepitvnn@gmail.com](mailto:hoanghiepitvnn@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+### Socials
+
 <p align="left">
-<a href="https://linkedin.com/in/dhhiep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhhiep" height="30" width="40" /></a>
-</p>
-
-### Languages and tools:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,ruby,jquery,vue,nodejs,express,rails,postgres,redis,firebase,linux,git,github,aws,docker,ansible,nginx,heroku" />
+  <a href="https://www.github.com/dhhiep" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/dhhiep" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
   </a>
 </p>
+
+<hr>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhhiep&style=for-the-badge&color=orange" width="150" />
+</div>
